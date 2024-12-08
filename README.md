@@ -12,7 +12,8 @@ ___
 1. Start studying
 2. Click Edit
 3. Click Cards
-4. Copy the contents of the file into the template to their section
+4. **COPY WHAT THE DEFAULT VALUES AND SAVE THEM SOMEWHERE IN CASE YOU WANT TO GO BACK**
+5. Copy the contents of the repo files into their respective template section:
 
    front-template.html -> Front Template
 
