@@ -1,0 +1,21 @@
+<div class="card-front horizontalPadding">
+    <div class="card-front__header horizontalPadding">
+        <div class="targetWord card-front__word">{{Front of Card}}</div>
+        <div class="card-front__play-button">{{word_audio}}</div>
+    </div>
+    {{#Image}}
+    <div class="image">
+        {{Image}}
+    </div>
+    {{/Image}}
+
+    {{^Image}}
+    <div class="dividerLine"></div>
+    {{/Image}}
+    <div class="card-front__footer horizontalPadding">
+        <div class="centerVertically" style="position: relative; gap: 2px;">
+            <span>"{{Example Sentence}}"</span>
+            <span class="sentenceAudioButton">{{sentence_audio}}</span>
+        </div>
+    </div>
+</div>
