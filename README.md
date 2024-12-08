@@ -13,7 +13,7 @@ ___
 2. Click Edit
 3. Click Cards
 4. **COPY WHAT THE DEFAULT VALUES AND SAVE THEM SOMEWHERE IN CASE YOU WANT TO GO BACK**
-5. Copy the contents of the repo files into their respective template section:
+5. Copy the contents of the repo's [beginner branch](https://github.com/TheNewLad/Refold-ES1K-Template/tree/beginner) files into their respective template section:
 
    front-template.html -> Front Template
 
